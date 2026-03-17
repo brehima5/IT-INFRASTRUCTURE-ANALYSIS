@@ -1,6 +1,6 @@
 # IT-INFRASTRUCTURE-ANALYSIS
 
-A data analysis of **50,000 cloud outage incidents** to uncover what's actually driving SLA breaches, revenue loss, and slow resolution times — so IT ops teams can stop guessing and start fixing.
+A data analysis of **50,000 cloud outage incidents** to uncover what's actually driving SLA breaches, revenue loss, and slow resolution times so IT ops teams can stop guessing and start fixing.
 
 ---
 
