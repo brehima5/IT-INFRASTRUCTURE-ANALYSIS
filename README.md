@@ -37,7 +37,6 @@ Pre-outage system load follows a **near-uniform distribution**, confirming that 
 ##  Tableau Dashboard
 
 I built an interactive Tableau dashboard to visualize the findings above and to monitor Incident management and Impact.
-It includes:
 
 [DASHBOARD HERE](https://public.tableau.com/app/profile/thierno.barry7757/viz/IT_17736007769730/Dashboard1?publish=yes)
 
