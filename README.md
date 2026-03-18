@@ -1,6 +1,11 @@
-# IT-INFRASTRUCTURE-ANALYSIS
+# IT INCIDENT ANALYSIS
 
 A data analysis of **50,000 cloud outage incidents** to uncover what's actually driving SLA breaches, revenue loss, and slow resolution times so IT ops teams can stop guessing and start fixing.
+
+---
+<img width="1406" height="655" alt="Screenshot 2026-03-18 at 1 16 30 PM" src="https://github.com/user-attachments/assets/0186e179-1a27-434c-8849-9bfe8dfa0f3d" />
+
+[DASHBOARD HERE](https://public.tableau.com/app/profile/thierno.barry7757/viz/IT_17736007769730/Dashboard1?publish=yes)
 
 ---
 
