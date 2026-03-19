@@ -27,7 +27,7 @@ The dataset covers 50K cloud outage incidents spanning multiple providers, regio
 Critical incidents exhibit a **70.5% SLA violation rate**, compared to ~17% for Low severity, indicating that current escalation and response processes are insufficient for high-impact events.
 
 ### 2. Software-Related Outages Drive the Highest Cumulative Impact
-Software is the leading root cause by volume, accounting for **240.5k affected customers** and **$4.46M estimated in revenue loss** . ANOVA testing confirmed no significant difference in per-incident impact across root causes, suggesting frequency — not severity per event — is the primary driver.
+Software is the leading root cause by volume, accounting for **240.5M affected customers** and **$4.46B estimated in revenue loss** across the 50k incidents recorded . ANOVA testing confirmed no significant difference in per-incident impact across root causes, suggesting frequency — not severity per event — is the primary driver.
 
 ### 3. System Load Is Not a Reliable Outage Predictor
 Pre-outage system load follows a **near-uniform distribution**, confirming that outages occur across all load conditions. Single-metric threshold alerting on load alone is insufficient for proactive incident prevention.
